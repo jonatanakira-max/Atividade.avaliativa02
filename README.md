@@ -6,7 +6,7 @@
 
 <img width="1523" height="175" alt="Atv02 1065" src="https://github.com/user-attachments/assets/7e6e8d3d-c589-49aa-a2fb-92c2b00cdefa" />
 
-# Ativitade Avaliativa 1072 - usando apenas 1 if/else e range - Intervalo 2
+# Ativitade Avaliativa 1072 - usando apenas um if/else e range - Intervalo 2
 
 [codigoatv02.2.py](https://github.com/user-attachments/files/22431390/codigoatv02.2.py)
 
